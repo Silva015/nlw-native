@@ -11,7 +11,7 @@ import { useState } from "react";
 import { Alert, Linking, ScrollView, Text, View } from "react-native";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 
-const PHONE_NUMBER = "5561992676770";
+const PHONE_NUMBER = "99999-9999";
 
 export default function Cart() {
   const cartStore = useCartStore();
